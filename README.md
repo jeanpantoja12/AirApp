@@ -6,3 +6,7 @@ An Arduino project based on Oximeter medition and control with Bluetooth conecti
 - Arduino UNO 
 - HC-05 Bluetooth
 - MAX30102 Sensor
+
+## How to Run
+Just copy and run the project on your board.
+  Check Arduino pins and distribution to avoid malfunctions.
